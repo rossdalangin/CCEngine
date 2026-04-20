@@ -2,61 +2,61 @@
     <h1>Strategic Template Library</h1>
     <p class="description">Access pre-built frameworks based on high-performance coaching models. You can edit these templates to match your brand and offer.</p>
 
-    <div class="cce-card" style="margin-bottom: 30px; border-top: 4px solid #0073aa;">
+    <div class="cce-card" style="margin-bottom: 2rem; border-top: 4px solid var(--cce-primary);">
         <h3>💎 Masterpiece Strategy Vault</h3>
-        <p>Deploy full, cross-linked business frameworks based on industry titans. These frameworks automatically create your Funnels, Offers, and Automation rules.</p>
+        <p class="description">Deploy full, cross-linked business frameworks based on industry titans. These frameworks automatically create your Funnels, Offers, and Automation rules.</p>
 
-        <div style="display:grid; grid-template-columns: 1fr 1fr 1fr; gap:20px; margin-top:15px;">
+        <div class="cce-grid cce-grid-3" style="margin-top:1.5rem;">
             <!-- Hormozi Strategy -->
-            <div style="background:#fff; padding:20px; border-radius:12px; border:1px solid #e2e8f0; box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-                <div style="background:#fef3c7; color:#92400e; font-size:10px; font-weight:700; padding:2px 8px; border-radius:10px; display:inline-block; margin-bottom:10px;">TITAN FRAMEWORK</div>
-                <h4 style="margin:0 0 10px 0;">The Hormozi Launch</h4>
-                <p style="font-size:12px; color:#64748b;">Built for "Offers so good they feel stupid saying no." Includes VSL Funnel + High-Ticket Offer + Value Ascension Emails.</p>
-                <button type="button" class="button button-primary cce-deploy-strategy" data-strategy="hormozi" style="width:100%; margin-top:10px;">Deploy Full Strategy</button>
+            <div class="cce-modern-card">
+                <div class="cce-badge cce-badge-accent" style="margin-bottom:10px;">TITAN FRAMEWORK</div>
+                <h4 style="margin:0 0 10px 0; font-size: 1.1rem; font-weight: 700;">The Hormozi Launch</h4>
+                <p style="font-size:13px; color:var(--cce-text-light); line-height: 1.5;">Built for "Offers so good they feel stupid saying no." Includes VSL Funnel + High-Ticket Offer + Value Ascension Emails.</p>
+                <button type="button" class="button button-primary cce-deploy-strategy" data-strategy="hormozi" style="width:100%; margin-top:15px; border-radius: var(--cce-radius);">Deploy Full Strategy</button>
             </div>
 
             <!-- Brunson Strategy -->
-            <div style="background:#fff; padding:20px; border-radius:12px; border:1px solid #e2e8f0; box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-                <div style="background:#dcfce7; color:#166534; font-size:10px; font-weight:700; padding:2px 8px; border-radius:10px; display:inline-block; margin-bottom:10px;">TITAN FRAMEWORK</div>
-                <h4 style="margin:0 0 10px 0;">The Brunson Webinar</h4>
-                <p style="font-size:12px; color:#64748b;">The perfect webinar framework for group scaling. Includes Webinar Funnel + Order Bump Offer + Indoctrination Sequence.</p>
-                <button type="button" class="button button-primary cce-deploy-strategy" data-strategy="brunson" style="width:100%; margin-top:10px;">Deploy Full Strategy</button>
+            <div class="cce-modern-card">
+                <div class="cce-badge cce-badge-secondary" style="margin-bottom:10px;">TITAN FRAMEWORK</div>
+                <h4 style="margin:0 0 10px 0; font-size: 1.1rem; font-weight: 700;">The Brunson Webinar</h4>
+                <p style="font-size:13px; color:var(--cce-text-light); line-height: 1.5;">The perfect webinar framework for group scaling. Includes Webinar Funnel + Order Bump Offer + Indoctrination Sequence.</p>
+                <button type="button" class="button button-primary cce-deploy-strategy" data-strategy="brunson" style="width:100%; margin-top:15px; border-radius: var(--cce-radius);">Deploy Full Strategy</button>
             </div>
 
             <!-- Custom Business Models -->
-            <div style="background:#fff; padding:20px; border-radius:12px; border:1px solid #e2e8f0; box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-                <div style="background:#f1f5f9; color:#475569; font-size:10px; font-weight:700; padding:2px 8px; border-radius:10px; display:inline-block; margin-bottom:10px;">MODEL DEPLOYMENT</div>
-                <h4 style="margin:0 0 10px 0;">Agency Builder</h4>
-                <p style="font-size:12px; color:#64748b;">For DFY services. Populates the Engine with Lead Gen funnels and cold outreach automation templates.</p>
-                <button type="button" class="button button-secondary cce-deploy-model" data-model="agency" style="width:100%; margin-top:10px;">Deploy Agency Model</button>
+            <div class="cce-modern-card">
+                <div class="cce-badge cce-badge-neutral" style="margin-bottom:10px;">MODEL DEPLOYMENT</div>
+                <h4 style="margin:0 0 10px 0; font-size: 1.1rem; font-weight: 700;">Agency Builder</h4>
+                <p style="font-size:13px; color:var(--cce-text-light); line-height: 1.5;">For DFY services. Populates the Engine with Lead Gen funnels and cold outreach automation templates.</p>
+                <button type="button" class="button button-secondary cce-deploy-model" data-model="agency" style="width:100%; margin-top:15px; border-radius: var(--cce-radius);">Deploy Agency Model</button>
             </div>
         </div>
     </div>
 
-    <div class="cce-template-grid" style="display:grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap:20px; margin-top:20px;">
+    <div class="cce-grid cce-grid-3" style="margin-top:2rem;">
 
         <!-- Funnel Templates -->
         <div class="cce-card">
-            <span class="dashicons dashicons-filter" style="font-size:40px; width:40px; height:40px; color:#673ab7;"></span>
-            <h3>Funnel Templates</h3>
-            <p>Frameworks for VSLs, Webinars, and Challenges.</p>
-            <a href="?page=cce-funnels" class="button button-primary">Manage Funnels</a>
+            <span class="dashicons dashicons-filter" style="font-size:40px; width:40px; height:40px; color:var(--cce-primary);"></span>
+            <h3 style="margin-top: 1rem;">Funnel Templates</h3>
+            <p style="color: var(--cce-text-light); font-size: 0.9rem;">Frameworks for VSLs, Webinars, and Challenges.</p>
+            <a href="?page=cce-funnels" class="button button-primary" style="border-radius: var(--cce-radius);">Manage Funnels</a>
         </div>
 
         <!-- Email Templates -->
         <div class="cce-card">
-            <span class="dashicons dashicons-email-alt" style="font-size:40px; width:40px; height:40px; color:#0073aa;"></span>
-            <h3>Email Sequences</h3>
-            <p>Pre-written indoctrination and sales sequences.</p>
-            <a href="?page=cce-automation#templates" class="button button-primary">Edit Sequences</a>
+            <span class="dashicons dashicons-email-alt" style="font-size:40px; width:40px; height:40px; color:var(--cce-primary);"></span>
+            <h3 style="margin-top: 1rem;">Email Sequences</h3>
+            <p style="color: var(--cce-text-light); font-size: 0.9rem;">Pre-written indoctrination and sales sequences.</p>
+            <a href="?page=cce-automation#templates" class="button button-primary" style="border-radius: var(--cce-radius);">Edit Sequences</a>
         </div>
 
         <!-- Offer Templates -->
         <div class="cce-card">
-            <span class="dashicons dashicons-awards" style="font-size:40px; width:40px; height:40px; color:#ffb700;"></span>
-            <h3>Grand Slam Offers</h3>
-            <p>Hormozi-style offer structures for maximum value.</p>
-            <a href="?page=cce-clients" class="button button-primary">View Offers</a>
+            <span class="dashicons dashicons-awards" style="font-size:40px; width:40px; height:40px; color:var(--cce-accent);"></span>
+            <h3 style="margin-top: 1rem;">Grand Slam Offers</h3>
+            <p style="color: var(--cce-text-light); font-size: 0.9rem;">Hormozi-style offer structures for maximum value.</p>
+            <a href="?page=cce-clients" class="button button-primary" style="border-radius: var(--cce-radius);">View Offers</a>
         </div>
     </div>
 
