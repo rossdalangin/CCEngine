@@ -62,3 +62,41 @@
     transform: translateY(-2px);
     box-shadow: var(--cce-shadow-lg);
 }
+
+.cce-guide-box {
+    background: var(--cce-background);
+    border: 1px solid var(--cce-border);
+    padding: 1.5rem;
+    border-radius: var(--cce-radius);
+    margin-bottom: 1.5rem;
+}
+
+.cce-guide-box h4 {
+    margin-top: 0;
+    color: var(--cce-primary);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.cce-step-list {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+}
+
+.cce-step-list li {
+    padding-left: 1.5rem;
+    position: relative;
+    margin-bottom: 0.75rem;
+    font-size: 0.9rem;
+    color: var(--cce-text-light);
+}
+
+.cce-step-list li::before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: var(--cce-primary);
+    font-weight: bold;
+}
