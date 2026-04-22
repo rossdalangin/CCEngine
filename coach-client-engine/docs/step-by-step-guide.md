@@ -1,61 +1,65 @@
-# Coach Client Engine: The Master Implementation Blueprint
+# 🚀 Coach Client Engine: Your 7-Figure Business Roadmap
 
-Welcome to the inner circle. This guide will take you from a fresh install to a 7-figure acquisition system in 6 simple phases.
+Welcome to the bridge between "Struggling Expert" and "Authority Engine." Most coaches are stuck in "Tech Hell"—wrestling with 5 different apps that don't talk to each other.
 
----
+The **Coach Client Engine** is your new vehicle. It’s a single, high-performance system that handles the heavy lifting so you can focus on what you do best: **Changing lives.**
 
-## 🛠 Phase 1: Foundations (The First 15 Minutes)
-1. **The Plugin Handshake:** Install and activate. Your new command center is in the "Coach Engine" sidebar menu.
-2. **Identity Setup:** Navigate to **Settings > General**.
-   - **Coach Name:** This appears in your emails and portal. *Example: "John Doe Coaching".*
-   - **Default Currency:** Choose the currency you bill in. *Example: "USD ($)".*
-3. **The Gateway:** Go to **Settings > Payments**.
-   - **Stripe:** Enter your Secret Key (starts with `sk_`).
-   - **Test Mode:** Check this box to simulate payments without a real card. *Highly recommended during setup.*
-4. **License Unlock:** Enter your PRO license key (starts with `PRO-`). This activates 1-click strategy deployment and advanced lead scoring.
-
-## 🌪 Phase 2: The Funnel Engine (Building the Bridge)
-1. **Choose Your Weapon:** Go to **Funnels > Create from Template**.
-   - **Lead Magnet:** Trade a PDF for an email. *Example: "The 7-Figure Script Vault".*
-   - **Consultation:** The most powerful funnel for coaches. Application -> Booking -> Success.
-   - **Hybrid Closer:** For those who want to sell via VSL and allow immediate checkout.
-2. **Deploy & Embed:** Click "Deploy." Copy the shortcode `[cce_funnel id="1"]`.
-   - Create a page titled "Work With Me" and paste the code.
-3. **Step Config:** Click "View Steps" and then the gear icon (⚙) on the "Checkout" step. Select your offer from the dropdown.
-
-## 💎 Phase 3: The Offer Builder (The Math of Value)
-1. **Craft the "Grand Slam":** Go to **Clients > Add Offer**.
-2. **Hormozi Variables:** High-ticket coaching isn't about time; it's about transformation.
-   - **Dream Outcome:** *Example: "Add $100k in ARR to your agency in 6 months."*
-   - **Perceived Likelihood:** *Example: "Join 50+ other agencies using our proven LinkedIn method."*
-   - **Time Delay:** *Example: "Book your first 3 calls in the first 7 days."*
-   - **Effort & Sacrifice:** *Example: "We handle all the technical CRM setup for you."*
-3. **The Value Equation:** Focus on maximizing the top side (Outcome/Likelihood) and minimizing the bottom side (Time/Effort).
-4. **Implementation:** Link your offer to a "Checkout" step in your funnel to collect payments instantly.
-
-## ⚙️ Phase 4: Automation (The Silent Employee)
-1. **The Welcome Sequence:** Go to **Automation > Templates**. Create a "Welcome Guide" email. Then go to **Rules** and link `Trigger: New Lead` → `Action: Send Email`.
-2. **The CRM Accelerator:** Link `Trigger: Booking Confirmed` → `Action: Move Stage (Booked)`. This keeps your Pipeline organized without manual work.
-3. **SOP Automation:** Link `Trigger: Payment Received` → `Action: Create Task (Send Onboarding Kit)`. This ensures you never miss a critical client step.
-4. **Qualifying Logic:** In the **Bookings** tab, add a question: *"What is your current monthly revenue?"*. If they answer below your threshold, you can manually cancel the call from the Bookings table.
-
-## 🔒 Phase 5: Client Portal (The 5-Star Experience)
-1. **The Private Hub:** Create a page on your site and add the `[cce_client_portal]` shortcode. This is where your clients will "live."
-2. **Resource Seeding:** Go to **Portal > Resources**.
-   - **Internal Resources:** Upload PDFs, scripts, or video links. *Example: "Sales Script Template".*
-   - **Visibility:** Set to "Clients Only" to ensure only those who have paid can access them.
-3. **Roadmap Builder:** Add onboarding tasks. *Example: "Schedule Your Kickoff Call", "Complete the Intake Form".* This gamifies the onboarding process for your clients.
-
-## 📊 Phase 6: Analytics & Scaling (The CEO View)
-1. **The Pulse Check:** Every Monday, check your **Analytics** dashboard.
-2. **Strategy Insights:** Pay attention to the automated advice.
-   - *If Show-up rate is low:* The Engine will suggest adding more SMS/Email reminders.
-   - *If Conversion is low:* The Engine will point you to the Hormozi framework in the Hub.
-3. **Revenue Projections:** Use the "Next 30 Days" projection to plan your ad spend or outreach volume. *If your projected revenue is $5k but you want $10k, you need to double your leads.*
+Follow these 6 simple steps to turn your WordPress site into a client-attracting machine.
 
 ---
 
-## 🧠 Master Consultant FAQ
-- **Multi-Tenancy:** Yes, if you have multiple coaches on one WP site, each user sees *only* their own leads, funnels, and settings.
-- **Shortcode Power:** You can mix and match. Use `[cce_lead_capture]` on a blog post and `[cce_checkout]` on a custom sales page.
-- **Support:** Access the "Mastery Hub" for outreach scripts and VSL frameworks designed by the pros.
+## 🛠 Step 1: The Handshake (First 15 Minutes)
+First, we need to tell the Engine who you are and where the money goes.
+
+1.  **Activate Your Engine:** Install the plugin. Look for the "Coach Engine" icon in your sidebar. This is your new Mission Control.
+2.  **Claim Your Identity:** Go to **Settings > General**. Enter your name. This is how your clients will see you in their portal.
+3.  **Open the Vault:** Go to **Settings > Payments**. Connect your Stripe or PayPal.
+    *   *Pro Tip:* Use "Test Mode" first. It’s like a dry run for your spaceship before you hit the real atmosphere.
+4.  **Unlock the Pro Power:** Paste your license key. This turns on the "1-Click" strategies that do 90% of the work for you.
+
+## 🌪 Step 2: The Bridge (Your Funnel)
+A funnel is just a bridge that moves a stranger from "Who are you?" to "How do I pay?"
+
+1.  **Pick Your Framework:** Go to **Funnels**. Don't build from scratch. Use a template:
+    *   **The Consultation:** The "Gold Standard" for high-ticket sales.
+    *   **The Lead Magnet:** Trade a small win (like a PDF) for their contact info.
+2.  **Deploy:** Click "Deploy." The Engine builds the entire bridge for you in 60 seconds.
+3.  **Embed:** Paste the shortcode onto any WordPress page. Your bridge is now live.
+
+## 💎 Step 3: The "Grand Slam" Offer
+High-ticket coaching isn't about selling your time; it's about selling a **Transformation.**
+
+1.  **Build the Offer:** Go to **Clients > Add Offer**.
+2.  **The Math of Value:** Use the variables.
+    *   **Dream Outcome:** What do they *really* want? (e.g., "$10k months").
+    *   **Time Delay:** How fast can you get them a "small win"?
+    *   **Effort:** How much of the work do you take off their plate?
+3.  **Connect:** Link this offer to your "Checkout" step. Now, when they click "Buy," the math is already done for them.
+
+## ⚙️ Step 4: The Silent Employee (Automation)
+Imagine having an assistant who never sleeps, never complains, and handles every follow-up.
+
+1.  **The Welcome:** Create an email template in **Automation**.
+2.  **Set the Rules:** Tell the Engine: *"When someone joins my list, send them this email immediately."*
+3.  **The CRM Move:** Set a rule to move leads to the "Booked" column the second they pick a time on your calendar. No more manual data entry.
+
+## 🔒 Step 5: The 5-Star Experience (Client Portal)
+The sale doesn't end at the payment; that's where the **Real Work** begins.
+
+1.  **The Portal:** Add the `[cce_client_portal]` shortcode to a private page.
+2.  **Seeding Success:** Upload your scripts, videos, and PDFs to the **Resources** tab.
+3.  **The Roadmap:** Give them a checklist. People love winning. Show them exactly how to get their first victory in the first 7 days.
+
+## 📊 Step 6: The CEO View (Analytics)
+You can't fix what you don't measure.
+
+1.  **Check the Vitals:** Every Monday, look at your **Analytics**.
+2.  **Spot the Leak:** Is your "Bridge" (Funnel) broken? Or is your "Offer" too weak? The Engine will tell you exactly where people are dropping off.
+3.  **Project the Future:** See your 30-day revenue forecast. This is how you decide when to scale and when to optimize.
+
+---
+
+### 🧠 Frequently Asked Questions
+*   **"Can I use this for any niche?"** Yes. If you solve a problem for people, the Engine works.
+*   **"Do I need to be a tech wizard?"** No. If you can use a mouse, you can scale this Engine.
+*   **"Is my data safe?"** You own your site. You own your leads. No third-party platform can hold your business hostage.

@@ -2,7 +2,7 @@
 $engine = new Coach_Client_Engine();
 ?>
 <div class="wrap cce-admin-wrap">
-    <h1>Coach Client Engine - Dashboard <?php if($engine->is_pro()) echo '<span style="background:linear-gradient(45deg, #e5e7eb, #94a3b8); color:#1e293b; font-size:10px; padding:3px 8px; border-radius:10px; vertical-align:middle; margin-left:10px; border:1px solid #cbd5e1;">PLATINUM</span>'; ?></h1>
+    <h1>Coach Client Engine - Dashboard <?php if($engine->is_pro()) echo '<span class="cce-badge cce-badge-neutral" style="vertical-align:middle; margin-left:10px;">PLATINUM</span>'; ?></h1>
     <p class="description">Welcome back, fellow consultant. This dashboard is your "Mission Control" for acquiring high-ticket clients. Use these metrics to identify bottlenecks in your funnel and scale your impact.</p>
 
     <?php
@@ -55,10 +55,10 @@ $engine = new Coach_Client_Engine();
         </div>
     </div>
 
-    <div class="cce-card" style="margin-bottom:20px; border-left: 4px solid #00a32a;">
+    <div class="cce-card" style="margin-bottom:20px; border-left: 4px solid var(--cce-secondary);">
         <h3>🚀 Quick Setup Guide</h3>
-        <p style="font-size:12px; color:#666;">Complete these steps to activate your client acquisition machine.</p>
-        <div style="display:flex; gap:30px; margin-top:10px;">
+        <p class="cce-step-desc">Complete these steps to activate your client acquisition machine.</p>
+        <div class="cce-flex" style="margin-top:1.5rem; justify-content: space-between;">
             <?php
             global $wpdb;
             $user_id = get_current_user_id();
@@ -81,67 +81,67 @@ $engine = new Coach_Client_Engine();
                 ],
             ];
             foreach($setup_steps as $label => $data): ?>
-                <div style="display:flex; flex-direction:column; gap:4px;">
-                    <div style="display:flex; align-items:center; gap:8px;">
-                        <span style="font-size:18px;"><?php echo $data['check'] ? '✅' : '❌'; ?></span>
-                        <span style="font-size:13px; font-weight:bold; color:#333;"><?php echo $label; ?></span>
+                <div class="cce-step-item">
+                    <div class="cce-flex">
+                        <span class="cce-step-icon"><?php echo $data['check'] ? '✅' : '❌'; ?></span>
+                        <span class="cce-step-label"><?php echo $label; ?></span>
                     </div>
-                    <small style="font-size:10px; color:#888; padding-left:26px;"><?php echo $data['desc']; ?></small>
+                    <small class="cce-step-desc" style="padding-left:2rem;"><?php echo $data['desc']; ?></small>
                 </div>
             <?php endforeach; ?>
         </div>
     </div>
 
-    <div style="display:grid; grid-template-columns: 1fr 1fr; gap:20px;">
-        <div class="cce-card" style="border-left: 4px solid #673ab7; grid-column: span 2;">
+    <div class="cce-grid cce-grid-2">
+        <div class="cce-card" style="border-left: 4px solid var(--cce-primary); grid-column: span 2;">
             <h3>📈 7-Day Revenue Trend</h3>
-            <div style="height:150px; position:relative; margin-top:10px; display:flex; align-items:flex-end; gap:10px; padding-bottom:20px;">
+            <div style="height:150px; position:relative; margin-top:1.5rem; display:flex; align-items:flex-end; gap:10px; padding-bottom:20px;">
                 <?php
                 $max_revenue = max(array_column($summary['revenue_history'], 'amount')) ?: 1;
                 foreach($summary['revenue_history'] as $h):
                     $height = ($h['amount'] / $max_revenue) * 100;
                 ?>
                     <div style="flex:1; display:flex; flex-direction:column; align-items:center; gap:5px;">
-                        <div style="width:100%; background:#673ab7; height:<?php echo $height; ?>%; border-radius:4px 4px 0 0; min-height:2px;"></div>
-                        <small style="font-size:9px; color:#888;"><?php echo date('D', strtotime($h['date'])); ?></small>
+                        <div class="cce-pipeline-bar" style="width:100%; height:<?php echo $height; ?>%; min-height:4px;"></div>
+                        <small style="font-size:10px; color:var(--cce-text-light); font-weight:600;"><?php echo date('D', strtotime($h['date'])); ?></small>
                     </div>
                 <?php endforeach; ?>
             </div>
         </div>
 
-        <div class="cce-card strategy-insights" style="border-left: 4px solid #0073aa;">
+        <div class="cce-card strategy-insights" style="border-left: 4px solid var(--cce-primary);">
             <h3>💎 Master Architect Strategy Insights</h3>
             <p>Based on your current data, here is your path to 3–5 clients this month:</p>
-            <ul style="list-style:disc; padding-left:20px;">
+            <ul style="list-style:disc; padding-left:20px; color: var(--cce-text-light); font-size: 0.9rem;">
                 <li><strong>Lead Velocity:</strong> Captured <?php echo (int) $summary['leads_today']; ?> leads today. Increase this to 10+ to guarantee scale.</li>
                 <li><strong>Conversion Ratio:</strong> Your lead-to-client conversion is <strong><?php echo $summary['lead_to_client']; ?>%</strong>.</li>
                 <?php if ($summary['lead_to_client'] < 3): ?>
-                    <li style="color:#d63638;"><strong>Action Required:</strong> Your conversion is below 3%. Review your Offer Builder.</li>
+                    <li style="color:var(--cce-accent); font-weight:600;"><strong>Action Required:</strong> Your conversion is below 3%. Review your Offer Builder.</li>
                 <?php else: ?>
-                    <li style="color:#00a32a;"><strong>Performing Well:</strong> Your funnel is converting efficiently. Scale traffic.</li>
+                    <li style="color:var(--cce-secondary); font-weight:600;"><strong>Performing Well:</strong> Your funnel is converting efficiently. Scale traffic.</li>
                 <?php endif; ?>
             </ul>
         </div>
 
-        <div class="cce-card" style="border-left: 4px solid #ffb700;">
+        <div class="cce-card" style="border-left: 4px solid var(--cce-accent);">
             <h3>⚡ Recent Activity</h3>
             <div style="max-height:200px; overflow-y:auto;">
                 <?php if ($activities): ?>
                     <ul style="list-style:none; padding:0; margin:0;">
                         <?php foreach($activities as $a): ?>
-                            <li style="font-size:12px; padding:8px 0; border-bottom:1px solid #eee;">
+                            <li style="font-size:13px; padding:12px 0; border-bottom:1px solid var(--cce-border);">
                                 <strong><?php echo esc_html($a->lead_name ?: 'System'); ?>:</strong> <?php echo esc_html($a->description); ?>
-                                <br><small style="color:#888;"><?php echo esc_html($a->created_at); ?></small>
+                                <br><small style="color:var(--cce-text-light);"><?php echo esc_html($a->created_at); ?></small>
                             </li>
                         <?php endforeach; ?>
                     </ul>
                 <?php else: ?>
-                    <p>No activity yet.</p>
+                    <p style="color:var(--cce-text-light); font-size: 0.9rem;">No activity yet.</p>
                 <?php endif; ?>
             </div>
         </div>
 
-        <div class="cce-card" style="margin-top:20px; border-left: 4px solid #e91e63;">
+        <div class="cce-card" style="margin-top:0; border-left: 4px solid #f43f5e;">
             <h3>📌 Pending Tasks</h3>
             <?php if (!empty($summary['pending_tasks'])): ?>
                 <ul style="list-style:none; padding:0;">
@@ -161,17 +161,17 @@ $engine = new Coach_Client_Engine();
         <div class="notice notice-warning"><p>No analytics data available. Start capturing leads to see insights!</p></div>
     <?php endif; ?>
 
-    <div class="cce-card" style="margin-top:20px; border-top: 4px solid #673ab7;">
+    <div class="cce-card" style="margin-top:2.5rem; border-top: 4px solid var(--cce-primary);">
         <h3>📊 Conversion Pipeline</h3>
-        <p style="font-size:12px; color:#666;">This visualization shows the "leakage" in your sales process. Aim for a 20%+ conversion between each stage for maximum profitability.</p>
-        <div style="display:flex; justify-content:space-between; align-items:center; margin-top:15px; position:relative; padding:20px 0;">
+        <p class="cce-step-desc">This visualization shows the "leakage" in your sales process. Aim for a 20%+ conversion between each stage for maximum profitability.</p>
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-top:2rem; position:relative; padding:20px 0;">
             <?php foreach($summary['pipeline'] as $idx => $p): ?>
                 <div style="text-align:center; flex:1; position:relative; z-index:2;">
-                    <div style="font-weight:bold; color:#673ab7; font-size:18px;"><?php echo $p['value']; ?></div>
-                    <div style="font-size:11px; color:#666; text-transform:uppercase;"><?php echo $p['label']; ?></div>
+                    <div style="font-weight:900; color:var(--cce-primary); font-size:1.5rem;"><?php echo $p['value']; ?></div>
+                    <div style="font-size:11px; color:var(--cce-text-light); text-transform:uppercase; font-weight:700;"><?php echo $p['label']; ?></div>
                 </div>
                 <?php if($idx < count($summary['pipeline'])-1): ?>
-                    <div style="flex:0.5; height:2px; background:#e0e0e0; margin-top:-15px;"></div>
+                    <div style="flex:0.5; height:2px; background:var(--cce-border); margin-top:-1.25rem;"></div>
                 <?php endif; ?>
             <?php endforeach; ?>
         </div>

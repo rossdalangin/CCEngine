@@ -3,21 +3,21 @@
     <p class="description">Your Sales Command Center. Move leads from left to right as they progress through your sales process.</p>
     <hr class="wp-header-end">
 
-    <div class="cce-card" style="margin-bottom:20px; border-left:4px solid #ffb700;">
+    <div class="cce-card" style="margin-bottom:2rem; border-left:4px solid var(--cce-accent);">
         <h3>💡 Pro Tip: Lead Heat</h3>
-        <p style="font-size:12px;">The card border color indicates lead engagement: <span style="color:#d63638;">Red = HOT</span> (Active), <span style="color:#ffb700;">Yellow = WARM</span> (Engaging), <span style="color:#0073aa;">Blue = COLD</span> (New).</p>
-        <p style="font-size:11px; color:#666;"><strong>What's Next?</strong> Drag a card to the next column to update their stage and trigger automated nurture emails.</p>
+        <p style="font-size:0.9rem; color: var(--cce-text-light);">The card border color indicates lead engagement: <span style="color:#d63638; font-weight: 700;">Red = HOT</span>, <span style="color:var(--cce-accent); font-weight: 700;">Yellow = WARM</span>, <span style="color:var(--cce-primary); font-weight: 700;">Blue = COLD</span>.</p>
+        <p style="font-size:0.8rem; color: var(--cce-text-light); margin-top: 0.5rem;"><strong>What's Next?</strong> Drag a card to the next column to update their stage and trigger automated nurture emails.</p>
     </div>
 
-    <div class="cce-modal-tabs" style="display:flex; border-bottom:1px solid #ddd; margin-bottom:20px;">
-        <button class="cce-crm-tab-link active" data-tab="kanban" style="background:none; border:none; padding:10px 20px; cursor:pointer; border-bottom:2px solid #0073aa;">Pipeline</button>
-        <button class="cce-crm-tab-link" data-tab="log" style="background:none; border:none; padding:10px 20px; cursor:pointer;">Activity Log</button>
+    <div class="cce-modal-tabs" style="display:flex; border-bottom:1px solid var(--cce-border); margin-bottom:2rem;">
+        <button class="cce-crm-tab-link active" data-tab="kanban" style="background:none; border:none; padding:10px 20px; cursor:pointer; border-bottom:2px solid var(--cce-primary); font-weight: 700; color: var(--cce-primary);">Pipeline</button>
+        <button class="cce-crm-tab-link" data-tab="log" style="background:none; border:none; padding:10px 20px; cursor:pointer; color: var(--cce-text-light);">Activity Log</button>
     </div>
 
     <div id="crm-tab-kanban" class="cce-crm-tab-content">
-        <div style="margin-bottom:20px; display:flex; gap:15px; align-items:center;">
-            <input type="text" id="cce-crm-search" placeholder="Search leads by name, email or tag..." style="flex:1; padding:10px; border-radius:8px;">
-            <select id="cce-crm-filter-status" style="padding:10px; border-radius:8px;">
+        <div style="margin-bottom:2rem; display:flex; gap:15px; align-items:center;">
+            <input type="text" id="cce-crm-search" placeholder="Search leads by name, email or tag..." style="flex:1; padding:12px; border: 1px solid var(--cce-border); border-radius:var(--cce-radius);">
+            <select id="cce-crm-filter-status" style="padding:12px; border: 1px solid var(--cce-border); border-radius:var(--cce-radius);">
                 <option value="">All Statuses</option>
                 <option value="cold">Cold</option>
                 <option value="warm">Warm</option>
@@ -25,7 +25,7 @@
             </select>
         </div>
 
-        <div class="cce-card" style="margin-bottom: 30px; border-bottom: 4px solid #673ab7;">
+        <div class="cce-card" style="margin-bottom: 2rem; border-bottom: 4px solid var(--cce-primary);">
             <h3>📊 Sales Pipeline Visibility</h3>
             <div style="display:flex; justify-content:space-between; align-items:flex-end; height:100px; gap:5px; padding-top:20px;">
                 <?php
@@ -44,9 +44,9 @@
                     $height = ($c['count'] / $total_leads_crm) * 100;
                 ?>
                     <div style="flex:1; display:flex; flex-direction:column; align-items:center;">
-                        <div style="width:80%; background:#673ab7; height:<?php echo $height; ?>%; border-radius:4px 4px 0 0; min-height:2px; opacity:<?php echo 0.3 + ($height/200); ?>;"></div>
-                        <small style="font-size:10px; margin-top:5px; font-weight:bold;"><?php echo $c['count']; ?></small>
-                        <small style="font-size:9px; color:#888; text-transform:uppercase;"><?php echo esc_html($c['name']); ?></small>
+                        <div class="cce-pipeline-bar" style="width:80%; height:<?php echo $height; ?>%; min-height:4px; opacity:<?php echo 0.5 + ($height/200); ?>;"></div>
+                        <small style="font-size:11px; margin-top:8px; font-weight:900; color: var(--cce-text);"><?php echo $c['count']; ?></small>
+                        <small style="font-size:9px; color:var(--cce-text-light); text-transform:uppercase; font-weight: 700;"><?php echo esc_html($c['name']); ?></small>
                     </div>
                 <?php endforeach; ?>
             </div>
@@ -65,7 +65,7 @@
         $stages = $wpdb->get_results( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}cce_crm_stages WHERE user_id = %d ORDER BY stage_order ASC", $user_id ) );
         ?>
 
-        <div class="cce-kanban-wrapper" id="cce-kanban-stages-sortable" style="display:flex; gap:20px; overflow-x:auto; padding-bottom:30px;">
+        <div class="cce-kanban-wrapper" id="cce-kanban-stages-sortable" style="display:flex; gap:20px; overflow-x:auto; padding-bottom:30px; scrollbar-width: thin;">
             <?php
             $analytics = new CCE_Analytics_Manager();
             $projections = $analytics->get_projections();
@@ -91,12 +91,12 @@
                 }
                 $pipeline_val = $count * $aov * $weight;
             ?>
-                <div class="kanban-column cce-kanban-stage" data-id="<?php echo $stage->id; ?>" style="min-width:280px; background:#e2e8f0; border-radius:10px; padding:15px;">
-                    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px;">
-                        <h3 style="margin:0; color:#4a5568; cursor:grab;"><?php echo esc_html( $stage->name ); ?></h3>
-                        <span style="font-size:10px; background:#cbd5e0; padding:2px 6px; border-radius:10px; font-weight:bold;"><?php echo $count; ?></span>
+                <div class="kanban-column cce-kanban-stage" data-id="<?php echo $stage->id; ?>" style="padding: 1.25rem; border-radius: var(--cce-radius-lg);">
+                    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1rem;">
+                        <h3 style="margin:0; color:var(--cce-text); cursor:grab; font-size: 1rem; font-weight: 800;"><?php echo esc_html( $stage->name ); ?></h3>
+                        <span class="cce-badge cce-badge-neutral"><?php echo $count; ?></span>
                     </div>
-                    <div style="font-size:11px; color:#718096; margin-bottom:15px; border-bottom:1px solid #cbd5e0; padding-bottom:5px;">
+                    <div style="font-size:11px; color:var(--cce-text-light); margin-bottom:1.25rem; border-bottom:1px solid var(--cce-border); padding-bottom:8px; font-weight: 600;">
                         <?php
                         $currency_code = get_option('cce_currency', 'USD');
                         $currency_symbols = ['USD' => '$', 'EUR' => '€', 'GBP' => '£', 'CAD' => 'C$', 'AUD' => 'A$'];
@@ -118,18 +118,18 @@
                                  data-lead-id="<?php echo $lead->id; ?>"
                                  data-search-text="<?php echo esc_attr(strtolower($lead->first_name . ' ' . $lead->last_name . ' ' . $lead->tags)); ?>"
                                  data-status="<?php echo esc_attr($lead->status); ?>"
-                                 style="margin-bottom:10px; border-top:none; border-left:4px solid <?php echo $heat_color; ?>; padding:15px; cursor:move; background:#fff; position:relative;">
+                                 style="margin-bottom:1rem; border-top:none; border-left:4px solid <?php echo $heat_color; ?>; padding:1.25rem; cursor:move; position:relative; box-shadow: var(--cce-shadow);">
 
-                                <span title="Days since last activity" style="position:absolute; right:10px; bottom:10px; font-size:9px; color:<?php echo $days_ago > 3 ? '#d63638' : '#888'; ?>;"><?php echo $days_ago; ?>d ago</span>
+                                <span title="Days since last activity" style="position:absolute; right:12px; top:12px; font-size:10px; color:<?php echo $days_ago > 3 ? '#ef4444' : 'var(--cce-text-light)'; ?>; font-weight: 700;"><?php echo $days_ago; ?>d</span>
 
                                 <div style="display:flex; justify-content:space-between; align-items:start;">
                                     <div>
-                                        <strong><?php echo esc_html( $lead->first_name . ' ' . $lead->last_name ); ?></strong>
-                                        <div style="font-size:10px; color:#666;">Engagement: <span style="color:<?php echo $heat_color; ?>; font-weight:bold;"><?php echo $engagement_score; ?></span></div>
+                                        <strong style="font-size: 0.95rem; color: var(--cce-text);"><?php echo esc_html( $lead->first_name . ' ' . $lead->last_name ); ?></strong>
+                                        <div style="font-size:10px; color:var(--cce-text-light); margin-top: 4px;">Engagement: <span style="color:<?php echo $heat_color; ?>; font-weight:800;"><?php echo $engagement_score; ?></span></div>
                                         <?php if($lead->tags): ?>
-                                            <div style="margin-top:5px; display:flex; gap:3px; flex-wrap:wrap;">
+                                            <div style="margin-top:8px; display:flex; gap:4px; flex-wrap:wrap;">
                                                 <?php foreach(explode(',', $lead->tags) as $tag): ?>
-                                                    <span style="background:#f1f5f9; color:#64748b; font-size:8px; padding:2px 5px; border-radius:3px;"><?php echo esc_html(trim($tag)); ?></span>
+                                                    <span class="cce-badge cce-badge-neutral" style="font-size:8px; padding:2px 6px; text-transform: none;"><?php echo esc_html(trim($tag)); ?></span>
                                                 <?php endforeach; ?>
                                             </div>
                                         <?php endif; ?>

@@ -3,6 +3,29 @@
     <p class="description">Your Funnel is the bridge between a complete stranger and a happy client. Use the pre-built templates below to launch your acquisition sequence in minutes.</p>
     <hr class="wp-header-end">
 
+    <div class="cce-guide-box">
+        <h4><span class="dashicons dashicons-external"></span> Funnel Launch Roadmap</h4>
+        <p>Follow this sequence to ensure your funnel converts visitors into high-ticket clients:</p>
+        <div style="display: flex; gap: 20px; margin-top: 15px;">
+            <div style="flex: 1; border-right: 1px solid var(--cce-border); padding-right: 15px;">
+                <strong style="color: var(--cce-primary); display: block; margin-bottom: 5px;">1. Define Offer</strong>
+                <span style="font-size: 0.8rem; color: var(--cce-text-light);">Define your transformation before building.</span>
+            </div>
+            <div style="flex: 1; border-right: 1px solid var(--cce-border); padding-right: 15px;">
+                <strong style="color: var(--cce-primary); display: block; margin-bottom: 5px;">2. Deploy Template</strong>
+                <span style="font-size: 0.8rem; color: var(--cce-text-light);">Choose a framework below that fits your goal.</span>
+            </div>
+            <div style="flex: 1; border-right: 1px solid var(--cce-border); padding-right: 15px;">
+                <strong style="color: var(--cce-primary); display: block; margin-bottom: 5px;">3. Customize</strong>
+                <span style="font-size: 0.8rem; color: var(--cce-text-light);">Add your copy, videos, and branding.</span>
+            </div>
+            <div style="flex: 1;">
+                <strong style="color: var(--cce-primary); display: block; margin-bottom: 5px;">4. Connect CRM</strong>
+                <span style="font-size: 0.8rem; color: var(--cce-text-light);">Ensure leads flow into your sales pipeline.</span>
+            </div>
+        </div>
+    </div>
+
     <?php
     global $wpdb;
     $user_id = get_current_user_id();
@@ -60,46 +83,96 @@
         </table>
     </div>
 
-    <div class="cce-card" style="margin-top:20px;">
+    <div class="cce-card" style="margin-top:2rem; border-top: 4px solid var(--cce-primary);">
         <h3>Strategic Funnel Templates</h3>
-        <p style="font-size:12px; color:#666;">Each template is designed based on Russell Brunson's DotCom Secrets and Alex Hormozi's $100M frameworks.</p>
-        <div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap:20px; margin-top:15px;">
-            <div class="cce-card" style="border:1px solid #ddd; border-top: 3px solid #0073aa; padding:20px;">
+        <p style="font-size:13px; color:var(--cce-text-light);">Choose a framework based on Russell Brunson's DotCom Secrets and Alex Hormozi's frameworks.</p>
+
+        <div class="cce-grid cce-grid-3" style="margin-top:1.5rem;">
+            <div class="cce-modern-card" style="border-top: 3px solid #0073aa;">
                 <h4 style="margin-top:0;">🧲 Lead Magnet</h4>
-                <p style="font-size:11px; height:40px;">Exchange a PDF for contact info. <br><strong>Steps:</strong> Opt-in → Thank You</p>
-                <button class="button button-primary cce-use-template" data-template="lead_magnet" style="width:100%;">Deploy</button>
+                <p style="font-size:11px; color: var(--cce-text-light); margin-bottom: 1rem;">Exchange value for contact info to build your list. <strong>Best for:</strong> Building an audience fast.</p>
+                <ul class="cce-step-list" style="margin-bottom: 1rem;">
+                    <li>Opt-in Page</li>
+                    <li>Thank You / Delivery</li>
+                </ul>
+                <button class="button button-primary cce-use-template" data-template="lead_magnet" style="width:100%; border-radius: var(--cce-radius);">Deploy</button>
             </div>
-            <div class="cce-card" style="border:1px solid #ddd; border-top: 3px solid #ffb700; padding:20px;">
+
+            <div class="cce-modern-card" style="border-top: 3px solid #ffb700;">
                 <h4 style="margin-top:0;">📅 Consultation</h4>
-                <p style="font-size:11px; height:40px;">The High-Ticket Standard. <br><strong>Steps:</strong> App → Booking → Success</p>
-                <button class="button button-primary cce-use-template" data-template="consultation" style="width:100%;">Deploy</button>
+                <p style="font-size:11px; color: var(--cce-text-light); margin-bottom: 1rem;">The "Gold Standard" for high-ticket coaching sales. <strong>Best for:</strong> $3k+ service programs.</p>
+                <ul class="cce-step-list" style="margin-bottom: 1rem;">
+                    <li>Application Form</li>
+                    <li>Calendar Booking</li>
+                    <li>Confirmation Page</li>
+                </ul>
+                <button class="button button-primary cce-use-template" data-template="consultation" style="width:100%; border-radius: var(--cce-radius);">Deploy</button>
             </div>
-            <div class="cce-card" style="border:1px solid #ddd; border-top: 3px solid #d63638; padding:20px;">
+
+            <div class="cce-modern-card" style="border-top: 3px solid #d63638;">
                 <h4 style="margin-top:0;">🚀 Appointment Machine</h4>
-                <p style="font-size:11px; height:40px;">SDR/Setter triage system. <br><strong>Steps:</strong> Form → Triage → Strategy</p>
-                <button class="button button-primary cce-use-template" data-template="appointment_machine" style="width:100%;">Deploy</button>
+                <p style="font-size:11px; color: var(--cce-text-light); margin-bottom: 1rem;">A high-volume system for teams with setters. <strong>Best for:</strong> Scaling sales teams.</p>
+                <ul class="cce-step-list" style="margin-bottom: 1rem;">
+                    <li>Qualifier Form</li>
+                    <li>Setter Triage</li>
+                    <li>Closer Strategy Call</li>
+                </ul>
+                <button class="button button-primary cce-use-template" data-template="appointment_machine" style="width:100%; border-radius: var(--cce-radius);">Deploy</button>
             </div>
-            <div class="cce-card" style="border:1px solid #ddd; border-top: 3px solid #22c55e; padding:20px;">
+
+            <div class="cce-modern-card" style="border-top: 3px solid #22c55e;">
                 <h4 style="margin-top:0;">🧬 Hybrid Closer</h4>
-                <p style="font-size:11px; height:40px;">VSL-to-Checkout hybrid. <br><strong>Steps:</strong> Opt-in → VSL → Calendar → Pay</p>
-                <button class="button button-primary cce-use-template" data-template="hybrid_closer" style="width:100%;">Deploy</button>
+                <p style="font-size:11px; color: var(--cce-text-light); margin-bottom: 1rem;">Combines education with immediate action. <strong>Best for:</strong> Transitioning from low to high ticket.</p>
+                <ul class="cce-step-list" style="margin-bottom: 1rem;">
+                    <li>Opt-in → VSL</li>
+                    <li>Calendar → Checkout</li>
+                </ul>
+                <button class="button button-primary cce-use-template" data-template="hybrid_closer" style="width:100%; border-radius: var(--cce-radius);">Deploy</button>
             </div>
-            <div class="cce-card" style="border:1px solid #ddd; border-top: 3px solid #673ab7; padding:20px;">
+
+            <div class="cce-modern-card" style="border-top: 3px solid #673ab7;">
                 <h4 style="margin-top:0;">🎥 Webinar</h4>
-                <p style="font-size:11px; height:40px;">Automated Selling. <br><strong>Steps:</strong> Reg → VSL → Booking → Pay</p>
-                <button class="button button-primary cce-use-template" data-template="webinar" style="width:100%;">Deploy</button>
+                <p style="font-size:11px; color: var(--cce-text-light); margin-bottom: 1rem;">Automated selling at scale. <strong>Best for:</strong> Group coaching and masterminds.</p>
+                <ul class="cce-step-list" style="margin-bottom: 1rem;">
+                    <li>Registration Page</li>
+                    <li>Live/Evergreen VSL</li>
+                    <li>Direct Checkout</li>
+                </ul>
+                <button class="button button-primary cce-use-template" data-template="webinar" style="width:100%; border-radius: var(--cce-radius);">Deploy</button>
             </div>
-            <div class="cce-card" style="border:1px solid #ddd; border-top: 3px solid #ef4444; padding:20px;">
+
+            <div class="cce-modern-card" style="border-top: 3px solid #ef4444;">
                 <h4 style="margin-top:0;">💎 High-Ticket VSL</h4>
-                <p style="font-size:11px; height:40px;">Direct persuasion. <br><strong>Steps:</strong> Opt-in → VSL → Booking → Success</p>
-                <button class="button button-primary cce-use-template" data-template="vsl" style="width:100%;">Deploy</button>
+                <p style="font-size:11px; color: var(--cce-text-light); margin-bottom: 1rem;">Direct persuasion for high-ticket offers. <strong>Best for:</strong> Cold traffic to call conversion.</p>
+                <ul class="cce-step-list" style="margin-bottom: 1rem;">
+                    <li>Opt-in Page</li>
+                    <li>Video Sales Letter</li>
+                    <li>Booking Session</li>
+                </ul>
+                <button class="button button-primary cce-use-template" data-template="vsl" style="width:100%; border-radius: var(--cce-radius);">Deploy</button>
             </div>
-            <div class="cce-card" style="border:1px solid #ddd; border-top: 3px solid #f97316; padding:20px;">
+
+            <div class="cce-modern-card" style="border-top: 3px solid #f97316;">
                 <h4 style="margin-top:0;">🎣 Tripwire</h4>
-                <p style="font-size:11px; height:40px;">Low-ticket front-end. <br><strong>Steps:</strong> Sales → Pay → Upsell → Success</p>
-                <button class="button button-primary cce-use-template" data-template="tripwire" style="width:100%;">Deploy</button>
+                <p style="font-size:11px; color: var(--cce-text-light); margin-bottom: 1rem;">Convert strangers into buyers with a low-cost offer. <strong>Best for:</strong> Liquidating ad spend.</p>
+                <ul class="cce-step-list" style="margin-bottom: 1rem;">
+                    <li>Sales Page</li>
+                    <li>Order Form</li>
+                    <li>One-Click Upsell</li>
+                </ul>
+                <button class="button button-primary cce-use-template" data-template="tripwire" style="width:100%; border-radius: var(--cce-radius);">Deploy</button>
             </div>
         </div>
+    </div>
+
+    <div class="cce-guide-box" style="margin-top: 2rem;">
+        <h4><span class="dashicons dashicons-yes"></span> Pre-Launch Success Checklist</h4>
+        <ul class="cce-step-list">
+            <li><strong>Mobile Audit:</strong> Check every step on your phone. 80% of traffic is mobile.</li>
+            <li><strong>Tracking:</strong> Ensure your tracking pixels are firing on the 'Thank You' step.</li>
+            <li><strong>CRM Connection:</strong> Verify that a test opt-in creates a lead in the "New" CRM column.</li>
+            <li><strong>Automation:</strong> Confirm that the "Lead Captured" trigger is active for this funnel.</li>
+        </ul>
     </div>
 
     <!-- Add Step Modal -->

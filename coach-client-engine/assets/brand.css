@@ -1,7 +1,102 @@
+:root {
+    --cce-primary: #4f46e5;
+    --cce-primary-hover: #4338ca;
+    --cce-secondary: #10b981;
+    --cce-secondary-hover: #059669;
+    --cce-accent: #f59e0b;
+    --cce-background: #f8fafc;
+    --cce-surface: #ffffff;
+    --cce-text: #1e293b;
+    --cce-text-light: #64748b;
+    --cce-border: #e2e8f0;
+    --cce-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    --cce-shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    --cce-radius: 0.5rem;
+    --cce-radius-lg: 0.75rem;
+}
+
 .cce-brand-logo {
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
-    color: #0073aa;
+    color: var(--cce-primary);
     text-transform: uppercase;
     letter-spacing: -1px;
+}
+
+/* Utility Classes */
+.cce-grid { display: grid; gap: 1.5rem; }
+.cce-grid-2 { grid-template-columns: repeat(2, 1fr); }
+.cce-grid-3 { grid-template-columns: repeat(3, 1fr); }
+
+@media (max-width: 768px) {
+    .cce-grid-2, .cce-grid-3 { grid-template-columns: 1fr; }
+}
+
+.cce-flex { display: flex; gap: 1rem; align-items: center; }
+.cce-flex-col { flex-direction: column; align-items: flex-start; }
+
+.cce-badge {
+    display: inline-block;
+    padding: 0.25rem 0.625rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    border-radius: 9999px;
+    text-transform: uppercase;
+}
+
+.cce-badge-primary { background: #e0e7ff; color: #4338ca; }
+.cce-badge-secondary { background: #d1fae5; color: #065f46; }
+.cce-badge-accent { background: #fef3c7; color: #92400e; }
+.cce-badge-neutral { background: #f1f5f9; color: #475569; }
+
+.cce-modern-card {
+    background: var(--cce-surface);
+    padding: 1.5rem;
+    border-radius: var(--cce-radius-lg);
+    border: 1px solid var(--cce-border);
+    box-shadow: var(--cce-shadow);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.cce-modern-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--cce-shadow-lg);
+}
+
+.cce-guide-box {
+    background: var(--cce-background);
+    border: 1px solid var(--cce-border);
+    padding: 1.5rem;
+    border-radius: var(--cce-radius);
+    margin-bottom: 1.5rem;
+}
+
+.cce-guide-box h4 {
+    margin-top: 0;
+    color: var(--cce-primary);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.cce-step-list {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+}
+
+.cce-step-list li {
+    padding-left: 1.5rem;
+    position: relative;
+    margin-bottom: 0.75rem;
+    font-size: 0.9rem;
+    color: var(--cce-text-light);
+}
+
+.cce-step-list li::before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: var(--cce-primary);
+    font-weight: bold;
 }

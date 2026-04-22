@@ -1,57 +1,137 @@
+@import url('../../assets/brand.css');
+
 .cce-admin-wrap {
-    background: #f0f2f5;
-    padding: 30px;
-    border-radius: 12px;
-    margin-top: 20px;
+    background: var(--cce-background);
+    padding: 2rem;
+    border-radius: var(--cce-radius-lg);
+    margin-top: 1.25rem;
+    font-family: Inter, system-ui, -apple-system, sans-serif;
+    color: var(--cce-text);
+}
+
+.cce-admin-wrap h1 {
+    font-size: 1.875rem;
+    font-weight: 800;
+    color: var(--cce-text);
+    margin-bottom: 0.5rem;
+}
+
+.cce-admin-wrap .description {
+    color: var(--cce-text-light);
+    font-size: 1rem;
+    margin-bottom: 2rem;
 }
 
 .cce-dashboard-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 20px;
-    margin-bottom: 40px;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2.5rem;
 }
 
 .cce-card {
-    background: #fff;
-    padding: 25px;
-    border-radius: 10px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
-    border-top: 4px solid #0073aa;
+    background: var(--cce-surface);
+    padding: 1.5rem;
+    border-radius: var(--cce-radius);
+    box-shadow: var(--cce-shadow);
+    border: 1px solid var(--cce-border);
+    position: relative;
+    overflow: hidden;
+}
+
+.cce-card::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: var(--cce-primary);
 }
 
 .cce-card h3 {
     margin-top: 0;
-    font-size: 14px;
-    color: #555;
+    font-size: 0.875rem;
+    font-weight: 700;
+    color: var(--cce-text-light);
     text-transform: uppercase;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.05em;
+    margin-bottom: 1rem;
 }
 
 .cce-card .value {
-    font-size: 32px;
-    font-weight: 900;
-    color: #1a1a1a;
-    margin-top: 10px;
+    font-size: 2.25rem;
+    font-weight: 800;
+    color: var(--cce-text);
 }
 
 .cce-quick-actions {
-    background: #fff;
-    padding: 30px;
-    border-radius: 12px;
+    background: var(--cce-surface);
+    padding: 2rem;
+    border-radius: var(--cce-radius-lg);
     text-align: center;
+    border: 1px solid var(--cce-border);
+    box-shadow: var(--cce-shadow);
 }
 
+/* Status Tags & Badges */
 .status-tag {
-    background: #e1f0ff;
-    color: #0073aa;
-    padding: 4px 10px;
-    border-radius: 4px;
-    font-size: 11px;
-    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
 }
 
-.status-tag.status-confirmed { background: #d4edda; color: #155724; }
-.status-tag.status-pending { background: #fff3cd; color: #856404; }
-.status-tag.status-cancelled { background: #f8d7da; color: #721c24; }
-.status-tag.status-completed { background: #d1ecf1; color: #0c5460; }
+.status-tag.status-confirmed, .cce-badge-success { background: #d1fae5; color: #065f46; }
+.status-tag.status-pending, .cce-badge-warning { background: #fef3c7; color: #92400e; }
+.status-tag.status-cancelled, .cce-badge-danger { background: #fee2e2; color: #991b1b; }
+.status-tag.status-completed, .cce-badge-info { background: #e0f2fe; color: #075985; }
+
+/* CRM Specific Styles */
+.cce-kanban-stage {
+    min-width: 300px;
+    background: #f1f5f9 !important;
+    border: 1px solid var(--cce-border);
+}
+
+.cce-kanban-card {
+    border-left-width: 4px !important;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.cce-kanban-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--cce-shadow-lg);
+}
+
+/* Pipeline Chart */
+.cce-pipeline-bar {
+    background: var(--cce-primary);
+    border-radius: 4px 4px 0 0;
+    transition: height 0.5s ease-out;
+}
+
+/* Progress Steps */
+.cce-step-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.cce-step-icon {
+    font-size: 1.25rem;
+}
+
+.cce-step-label {
+    font-size: 0.875rem;
+    font-weight: 700;
+    color: var(--cce-text);
+}
+
+.cce-step-desc {
+    font-size: 0.75rem;
+    color: var(--cce-text-light);
+}
