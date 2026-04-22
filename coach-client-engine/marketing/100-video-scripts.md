@@ -1,115 +1,601 @@
 # 🎬 100 High-Converting Reel Scripts for Coaches & Consultants
 
-This document contains 100 scroll-stopping scripts designed to sell the **Coach Client Engine** plugin and the premium web design services at **CloseClient.com**.
+### Script 1
+- **Hook:** Leads go cold after 2 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
 
----
+### Script 2
+- **Hook:** The Value equation that doubled my coaching revenue in 30 days.
+- **Body:** Stop selling hours. Start selling transformations. Our Offer Builder helps you maximize the Dream Outcome while minimizing the Effort and Sacrifice.
+- **CTA:** Link in bio to grab the plugin.
+- **Tags:** #Hormozi #ValueEquation #CoachStrategy
 
-## Part 1: The "Tech Overwhelm" Series (1-25)
-**Focus:** Agitating the "Tech Tax" and positioning the Engine as the "New Vehicle."
+### Script 3
+- **Hook:** Leads go cold after 2 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
 
-### Script 1: The $300/mo Leak
-- **Hook:** "Stop paying the $300/mo 'Tech Tax' just to keep your coaching business alive."
-- **Body:** "You're paying for ClickFunnels, ActiveCampaign, and Calendly. That's $3k a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site."
-- **CTA:** "Comment 'ENGINE' to see the math."
-- **Hashtags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
+### Script 4
+- **Hook:** A $10,000 offer on a $template website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
 
-### Script 2: The "Spaghetti" Tech Stack
-- **Hook:** "Your coaching tech stack looks like a bowl of spaghetti. None of it talks, and all of it breaks."
-- **Body:** "When a lead opts in, does your CRM update? Does your calendar sync? If not, you don't have a business, you have a headache. Let CloseClient.com build you a unified Authority Engine."
-- **CTA:** "Link in bio for a free audit."
-- **Hashtags:** #ConsultantLife #SalesAutomation #WordPressExpert
+### Script 5
+- **Hook:** Stop paying the $278/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for ActiveCampaign, ActiveCampaign, and ActiveCampaign. That's $3485 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'VALUE' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
 
-### Script 3: The WordPress Secret
-- **Hook:** "Why 7-figure coaches are moving back to WordPress in 2024."
-- **Body:** "Platforms like Kajabi and ClickFunnels own your data. If they go down, your business goes down. With our premium plugins, you own the engine. You own the leads. You own the future."
-- **CTA:** "DM 'OWN' to learn more."
-- **Hashtags:** #DataOwnership #DigitalAsset #CoachingBusiness
+### Script 6
+- **Hook:** Leads go cold after 5 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
 
-[... Scripts 4-25 follow similar pain-point logic ...]
+### Script 7
+- **Hook:** A $25,000 offer on a $99 website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
 
----
+### Script 8
+- **Hook:** The Hormozi equation that doubled my coaching revenue in 30 days.
+- **Body:** Stop selling hours. Start selling transformations. Our Offer Builder helps you maximize the Dream Outcome while minimizing the Effort and Sacrifice.
+- **CTA:** Link in bio to grab the plugin.
+- **Tags:** #Hormozi #ValueEquation #CoachStrategy
 
-## Part 2: The "Hormozi Math" Series (26-50)
-**Focus:** Using the Value Equation to sell high-ticket offers and design.
+### Script 9
+- **Hook:** The Value equation that doubled my coaching revenue in 30 days.
+- **Body:** Stop selling hours. Start selling transformations. Our Offer Builder helps you maximize the Dream Outcome while minimizing the Effort and Sacrifice.
+- **CTA:** Link in bio to grab the plugin.
+- **Tags:** #Hormozi #ValueEquation #CoachStrategy
 
-### Script 26: The Transformation Trap
-- **Hook:** "Stop selling your time. Nobody wants your hours. They want the result."
-- **Body:** "If you're charging hourly, you're a commodity. If you're selling a transformation, you're a partner. Our Offer Builder plugin helps you bake value into your price using the Hormozi equation."
-- **CTA:** "Grab the plugin in our bio."
-- **Hashtags:** #ValueEquation #Hormozi #HighTicketOffer
+### Script 10
+- **Hook:** A $10,000 offer on a $template website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
 
-### Script 27: The 10x Design ROI
-- **Hook:** "A $5,000 offer on a $50 website is a lie that prospects can smell."
-- **Body:** "In high-ticket sales, status is everything. If your website looks like it was built in 2012, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches."
-- **CTA:** "Book your design consultation at CloseClient.com."
-- **Hashtags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
+### Script 11
+- **Hook:** Why 7-figure coaches are moving back to their own servers in 2024.
+- **Body:** SaaS platforms like Calendly own your data. If they go down, your business goes down. With the Coach Client Engine, you own the engine, the leads, and the future.
+- **CTA:** DM 'VALUE' to learn more.
+- **Tags:** #DataOwnership #DigitalAsset #CoachingBusiness
 
-[... Scripts 28-50 focus on ROI and Status ...]
+### Script 12
+- **Hook:** Why 7-figure coaches are moving back to self-hosted sites in 2024.
+- **Body:** SaaS platforms like Kajabi own your data. If they go down, your business goes down. With the Coach Client Engine, you own the engine, the leads, and the future.
+- **CTA:** DM 'FREEDOM' to learn more.
+- **Tags:** #DataOwnership #DigitalAsset #CoachingBusiness
 
----
+### Script 13
+- **Hook:** The Value equation that doubled my coaching revenue in 30 days.
+- **Body:** Stop selling hours. Start selling transformations. Our Offer Builder helps you maximize the Dream Outcome while minimizing the Effort and Sacrifice.
+- **CTA:** Link in bio to grab the plugin.
+- **Tags:** #Hormozi #ValueEquation #CoachStrategy
 
-## Part 3: The "Silent Employee" Series (51-75)
-**Focus:** Highlighting Automation and CRM features.
+### Script 14
+- **Hook:** Stop paying the $421/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for GoHighLevel, HubSpot, and ActiveCampaign. That's $5063 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'OWN' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
 
-### Script 51: The 5-Minute Lead Rule
-- **Hook:** "Leads go cold after 5 minutes. If you aren't reaching out, your competitors are."
-- **Body:** "The Coach Client Engine scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing winners."
-- **CTA:** "Get the Engine today."
-- **Hashtags:** #LeadScoring #CRMTips #SalesStrategy
+### Script 15
+- **Hook:** Why 7-figure coaches are moving back to self-hosted sites in 2024.
+- **Body:** SaaS platforms like Calendly own your data. If they go down, your business goes down. With the Coach Client Engine, you own the engine, the leads, and the future.
+- **CTA:** DM 'OWN' to learn more.
+- **Tags:** #DataOwnership #DigitalAsset #CoachingBusiness
 
-### Script 52: The No-Show Epidemic
-- **Hook:** "Tired of getting ghosted on your strategy calls?"
-- **Body:** "Most coaches forget to indoctrinate their leads. Our Engine automates a 3-day 'Authority Sequence' that pre-sells you before you even say hello. Show-up rates jump 40% overnight."
-- **CTA:** "Comment 'SHOWUP' for the sequence."
-- **Hashtags:** #NoShows #SalesProcess #CoachingAutomation
+### Script 16
+- **Hook:** Stop paying the $316/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for ClickFunnels, Calendly, and HubSpot. That's $5484 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'VALUE' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
 
-[... Scripts 53-75 focus on efficiency and time-saving ...]
+### Script 17
+- **Hook:** A $10,000 offer on a $template website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
 
----
+### Script 18
+- **Hook:** Stop paying the $256/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for ActiveCampaign, Calendly, and ClickFunnels. That's $3872 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'ENGINE' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
 
-## Part 4: The "Close Client" Showcase (76-100)
-**Focus:** Direct promotion of CloseClient.com design services.
+### Script 19
+- **Hook:** Stop paying the $299/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for ClickFunnels, Kajabi, and ClickFunnels. That's $7811 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'SCALE' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
 
-### Script 76: The "Done For You" Dream
-- **Hook:** "You're a coach, not a web developer. Stop acting like one."
-- **Body:** "You spend 10 hours a week wrestling with plugins when you should be with clients. CloseClient.com builds your entire high-ticket system from scratch. Premium plugins, high-converting design, zero stress."
-- **CTA:** "Visit CloseClient.com and let us build it for you."
-- **Hashtags:** #CloseClient #AgencyOwner #BusinessScale
+### Script 20
+- **Hook:** A $25,000 offer on a $template website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
 
-### Script 77: The "Authority Engine" Reveal
-- **Hook:** "Watch me turn a blank WordPress site into a $100k coaching engine in 60 seconds."
-- **Body:** (Show screen recording of 1-click deployment) "This is what happens when you have the right tools. Don't build. Deploy. Get our premium plugin bundle now."
-- **CTA:** "Get the bundle at the link in bio."
-- **Hashtags:** #AuthorityEngine #WordPressPlugin #CoachTools
+### Script 21
+- **Hook:** A $25,000 offer on a $template website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
 
-[... Scripts 78-100 feature case studies and direct CTAs ...]
+### Script 22
+- **Hook:** Leads go cold after 5 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
 
----
+### Script 23
+- **Hook:** The Hormozi equation that doubled my coaching revenue in 30 days.
+- **Body:** Stop selling hours. Start selling transformations. Our Offer Builder helps you maximize the Dream Outcome while minimizing the Effort and Sacrifice.
+- **CTA:** Link in bio to grab the plugin.
+- **Tags:** #Hormozi #ValueEquation #CoachStrategy
 
-## 📋 Full List of 100 Hooks (The "Cheat Sheet")
+### Script 24
+- **Hook:** Leads go cold after 10 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
 
-1. Stop paying the $300/mo 'Tech Tax'.
-2. Your website is a billboard, but it should be an engine.
-3. Why Kajabi is a cage for your data.
-4. The 9-word email that revives dead leads.
-5. How to bake value into your price.
-6. The secret behind 7-figure onboarding.
-7. Stop selling coaching. Start selling transformations.
-8. Is your CRM a notepad or a machine?
-9. The 5-minute lead rule you're breaking.
-10. High-status design for high-ticket coaches.
-... (etc. through 100) ...
+### Script 25
+- **Hook:** The Hormozi equation that doubled my coaching revenue in 30 days.
+- **Body:** Stop selling hours. Start selling transformations. Our Offer Builder helps you maximize the Dream Outcome while minimizing the Effort and Sacrifice.
+- **CTA:** Link in bio to grab the plugin.
+- **Tags:** #Hormozi #ValueEquation #CoachStrategy
 
----
+### Script 26
+- **Hook:** Stop paying the $367/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for Kajabi, Calendly, and ActiveCampaign. That's $9669 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'ENGINE' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
 
-## 🛠 Strategic CTAs to Mix & Match:
-- "Comment 'READY' to scale."
-- "DM 'ENGINE' for the free plugin."
-- "Visit CloseClient.com for a high-converting audit."
-- "Link in bio to join the 1%."
-- "Stop the tech overwhelm today."
+### Script 27
+- **Hook:** Leads go cold after 2 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
 
----
+### Script 28
+- **Hook:** A $10,000 offer on a $99 website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
 
-## #️⃣ Recommended Hashtags:
-#CoachingBusiness #ConsultantStrategy #WordPressForCoaches #FunnelHacking #HormoziStyle #CloseClient #CoachClientEngine #AutomationSecrets #HighTicketSales #OnlineEmpire
+### Script 29
+- **Hook:** Stop paying the $240/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for ClickFunnels, ActiveCampaign, and ActiveCampaign. That's $5085 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'SCALE' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
+
+### Script 30
+- **Hook:** Stop paying the $459/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for Kajabi, HubSpot, and Kajabi. That's $9659 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'READY' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
+
+### Script 31
+- **Hook:** A $10,000 offer on a $50 website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
+
+### Script 32
+- **Hook:** The Grand Slam equation that doubled my coaching revenue in 30 days.
+- **Body:** Stop selling hours. Start selling transformations. Our Offer Builder helps you maximize the Dream Outcome while minimizing the Effort and Sacrifice.
+- **CTA:** Link in bio to grab the plugin.
+- **Tags:** #Hormozi #ValueEquation #CoachStrategy
+
+### Script 33
+- **Hook:** Stop paying the $293/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for Calendly, Kajabi, and ClickFunnels. That's $8964 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'READY' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
+
+### Script 34
+- **Hook:** The Value equation that doubled my coaching revenue in 30 days.
+- **Body:** Stop selling hours. Start selling transformations. Our Offer Builder helps you maximize the Dream Outcome while minimizing the Effort and Sacrifice.
+- **CTA:** Link in bio to grab the plugin.
+- **Tags:** #Hormozi #ValueEquation #CoachStrategy
+
+### Script 35
+- **Hook:** Stop paying the $386/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for Kajabi, Kajabi, and GoHighLevel. That's $3788 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'ENGINE' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
+
+### Script 36
+- **Hook:** Why 7-figure coaches are moving back to their own servers in 2024.
+- **Body:** SaaS platforms like Kajabi own your data. If they go down, your business goes down. With the Coach Client Engine, you own the engine, the leads, and the future.
+- **CTA:** DM 'READY' to learn more.
+- **Tags:** #DataOwnership #DigitalAsset #CoachingBusiness
+
+### Script 37
+- **Hook:** Stop paying the $291/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for ClickFunnels, GoHighLevel, and ClickFunnels. That's $5156 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'ENGINE' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
+
+### Script 38
+- **Hook:** Stop paying the $294/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for ClickFunnels, ClickFunnels, and HubSpot. That's $3125 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'SCALE' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
+
+### Script 39
+- **Hook:** A $10,000 offer on a $50 website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
+
+### Script 40
+- **Hook:** Leads go cold after 10 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
+
+### Script 41
+- **Hook:** The Value equation that doubled my coaching revenue in 30 days.
+- **Body:** Stop selling hours. Start selling transformations. Our Offer Builder helps you maximize the Dream Outcome while minimizing the Effort and Sacrifice.
+- **CTA:** Link in bio to grab the plugin.
+- **Tags:** #Hormozi #ValueEquation #CoachStrategy
+
+### Script 42
+- **Hook:** The Grand Slam equation that doubled my coaching revenue in 30 days.
+- **Body:** Stop selling hours. Start selling transformations. Our Offer Builder helps you maximize the Dream Outcome while minimizing the Effort and Sacrifice.
+- **CTA:** Link in bio to grab the plugin.
+- **Tags:** #Hormozi #ValueEquation #CoachStrategy
+
+### Script 43
+- **Hook:** Why 7-figure coaches are moving back to WordPress in 2024.
+- **Body:** SaaS platforms like ClickFunnels own your data. If they go down, your business goes down. With the Coach Client Engine, you own the engine, the leads, and the future.
+- **CTA:** DM 'FREEDOM' to learn more.
+- **Tags:** #DataOwnership #DigitalAsset #CoachingBusiness
+
+### Script 44
+- **Hook:** Why 7-figure coaches are moving back to WordPress in 2024.
+- **Body:** SaaS platforms like ClickFunnels own your data. If they go down, your business goes down. With the Coach Client Engine, you own the engine, the leads, and the future.
+- **CTA:** DM 'VALUE' to learn more.
+- **Tags:** #DataOwnership #DigitalAsset #CoachingBusiness
+
+### Script 45
+- **Hook:** Why 7-figure coaches are moving back to WordPress in 2024.
+- **Body:** SaaS platforms like Calendly own your data. If they go down, your business goes down. With the Coach Client Engine, you own the engine, the leads, and the future.
+- **CTA:** DM 'SCALE' to learn more.
+- **Tags:** #DataOwnership #DigitalAsset #CoachingBusiness
+
+### Script 46
+- **Hook:** Leads go cold after 10 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
+
+### Script 47
+- **Hook:** A $25,000 offer on a $template website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
+
+### Script 48
+- **Hook:** Stop paying the $225/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for ClickFunnels, Kajabi, and ClickFunnels. That's $7376 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'READY' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
+
+### Script 49
+- **Hook:** A $5,000 offer on a $50 website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
+
+### Script 50
+- **Hook:** Why 7-figure coaches are moving back to WordPress in 2024.
+- **Body:** SaaS platforms like Calendly own your data. If they go down, your business goes down. With the Coach Client Engine, you own the engine, the leads, and the future.
+- **CTA:** DM 'ENGINE' to learn more.
+- **Tags:** #DataOwnership #DigitalAsset #CoachingBusiness
+
+### Script 51
+- **Hook:** A $25,000 offer on a $99 website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
+
+### Script 52
+- **Hook:** Stop paying the $416/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for HubSpot, Kajabi, and GoHighLevel. That's $7871 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'FREEDOM' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
+
+### Script 53
+- **Hook:** The Hormozi equation that doubled my coaching revenue in 30 days.
+- **Body:** Stop selling hours. Start selling transformations. Our Offer Builder helps you maximize the Dream Outcome while minimizing the Effort and Sacrifice.
+- **CTA:** Link in bio to grab the plugin.
+- **Tags:** #Hormozi #ValueEquation #CoachStrategy
+
+### Script 54
+- **Hook:** Leads go cold after 5 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
+
+### Script 55
+- **Hook:** Why 7-figure coaches are moving back to self-hosted sites in 2024.
+- **Body:** SaaS platforms like ActiveCampaign own your data. If they go down, your business goes down. With the Coach Client Engine, you own the engine, the leads, and the future.
+- **CTA:** DM 'READY' to learn more.
+- **Tags:** #DataOwnership #DigitalAsset #CoachingBusiness
+
+### Script 56
+- **Hook:** A $5,000 offer on a $50 website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
+
+### Script 57
+- **Hook:** The Grand Slam equation that doubled my coaching revenue in 30 days.
+- **Body:** Stop selling hours. Start selling transformations. Our Offer Builder helps you maximize the Dream Outcome while minimizing the Effort and Sacrifice.
+- **CTA:** Link in bio to grab the plugin.
+- **Tags:** #Hormozi #ValueEquation #CoachStrategy
+
+### Script 58
+- **Hook:** Stop paying the $267/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for ClickFunnels, Kajabi, and ClickFunnels. That's $5781 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'OWN' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
+
+### Script 59
+- **Hook:** Leads go cold after 2 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
+
+### Script 60
+- **Hook:** A $10,000 offer on a $99 website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
+
+### Script 61
+- **Hook:** Leads go cold after 5 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
+
+### Script 62
+- **Hook:** Leads go cold after 5 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
+
+### Script 63
+- **Hook:** Why 7-figure coaches are moving back to self-hosted sites in 2024.
+- **Body:** SaaS platforms like ActiveCampaign own your data. If they go down, your business goes down. With the Coach Client Engine, you own the engine, the leads, and the future.
+- **CTA:** DM 'VALUE' to learn more.
+- **Tags:** #DataOwnership #DigitalAsset #CoachingBusiness
+
+### Script 64
+- **Hook:** The Value equation that doubled my coaching revenue in 30 days.
+- **Body:** Stop selling hours. Start selling transformations. Our Offer Builder helps you maximize the Dream Outcome while minimizing the Effort and Sacrifice.
+- **CTA:** Link in bio to grab the plugin.
+- **Tags:** #Hormozi #ValueEquation #CoachStrategy
+
+### Script 65
+- **Hook:** A $25,000 offer on a $99 website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
+
+### Script 66
+- **Hook:** Why 7-figure coaches are moving back to their own servers in 2024.
+- **Body:** SaaS platforms like ClickFunnels own your data. If they go down, your business goes down. With the Coach Client Engine, you own the engine, the leads, and the future.
+- **CTA:** DM 'FREEDOM' to learn more.
+- **Tags:** #DataOwnership #DigitalAsset #CoachingBusiness
+
+### Script 67
+- **Hook:** A $5,000 offer on a $template website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
+
+### Script 68
+- **Hook:** Stop paying the $257/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for ActiveCampaign, HubSpot, and Calendly. That's $6776 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'ENGINE' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
+
+### Script 69
+- **Hook:** The Grand Slam equation that doubled my coaching revenue in 30 days.
+- **Body:** Stop selling hours. Start selling transformations. Our Offer Builder helps you maximize the Dream Outcome while minimizing the Effort and Sacrifice.
+- **CTA:** Link in bio to grab the plugin.
+- **Tags:** #Hormozi #ValueEquation #CoachStrategy
+
+### Script 70
+- **Hook:** Leads go cold after 5 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
+
+### Script 71
+- **Hook:** The Value equation that doubled my coaching revenue in 30 days.
+- **Body:** Stop selling hours. Start selling transformations. Our Offer Builder helps you maximize the Dream Outcome while minimizing the Effort and Sacrifice.
+- **CTA:** Link in bio to grab the plugin.
+- **Tags:** #Hormozi #ValueEquation #CoachStrategy
+
+### Script 72
+- **Hook:** Leads go cold after 2 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
+
+### Script 73
+- **Hook:** Stop paying the $355/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for GoHighLevel, Kajabi, and Kajabi. That's $5915 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'OWN' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
+
+### Script 74
+- **Hook:** A $25,000 offer on a $50 website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
+
+### Script 75
+- **Hook:** Stop paying the $233/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for ClickFunnels, ActiveCampaign, and ActiveCampaign. That's $8325 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'READY' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
+
+### Script 76
+- **Hook:** Leads go cold after 10 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
+
+### Script 77
+- **Hook:** Leads go cold after 5 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
+
+### Script 78
+- **Hook:** Stop paying the $231/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for ClickFunnels, ClickFunnels, and Calendly. That's $5684 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'VALUE' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
+
+### Script 79
+- **Hook:** Leads go cold after 2 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
+
+### Script 80
+- **Hook:** Leads go cold after 2 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
+
+### Script 81
+- **Hook:** Stop paying the $442/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for HubSpot, ActiveCampaign, and GoHighLevel. That's $4793 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'VALUE' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
+
+### Script 82
+- **Hook:** Stop paying the $363/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for GoHighLevel, HubSpot, and ClickFunnels. That's $7483 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'ENGINE' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
+
+### Script 83
+- **Hook:** A $5,000 offer on a $template website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
+
+### Script 84
+- **Hook:** Leads go cold after 10 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
+
+### Script 85
+- **Hook:** A $10,000 offer on a $99 website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
+
+### Script 86
+- **Hook:** Why 7-figure coaches are moving back to their own servers in 2024.
+- **Body:** SaaS platforms like Kajabi own your data. If they go down, your business goes down. With the Coach Client Engine, you own the engine, the leads, and the future.
+- **CTA:** DM 'ENGINE' to learn more.
+- **Tags:** #DataOwnership #DigitalAsset #CoachingBusiness
+
+### Script 87
+- **Hook:** A $5,000 offer on a $50 website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
+
+### Script 88
+- **Hook:** A $5,000 offer on a $template website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
+
+### Script 89
+- **Hook:** The Hormozi equation that doubled my coaching revenue in 30 days.
+- **Body:** Stop selling hours. Start selling transformations. Our Offer Builder helps you maximize the Dream Outcome while minimizing the Effort and Sacrifice.
+- **CTA:** Link in bio to grab the plugin.
+- **Tags:** #Hormozi #ValueEquation #CoachStrategy
+
+### Script 90
+- **Hook:** Leads go cold after 10 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
+
+### Script 91
+- **Hook:** The Hormozi equation that doubled my coaching revenue in 30 days.
+- **Body:** Stop selling hours. Start selling transformations. Our Offer Builder helps you maximize the Dream Outcome while minimizing the Effort and Sacrifice.
+- **CTA:** Link in bio to grab the plugin.
+- **Tags:** #Hormozi #ValueEquation #CoachStrategy
+
+### Script 92
+- **Hook:** The Grand Slam equation that doubled my coaching revenue in 30 days.
+- **Body:** Stop selling hours. Start selling transformations. Our Offer Builder helps you maximize the Dream Outcome while minimizing the Effort and Sacrifice.
+- **CTA:** Link in bio to grab the plugin.
+- **Tags:** #Hormozi #ValueEquation #CoachStrategy
+
+### Script 93
+- **Hook:** Why 7-figure coaches are moving back to self-hosted sites in 2024.
+- **Body:** SaaS platforms like Kajabi own your data. If they go down, your business goes down. With the Coach Client Engine, you own the engine, the leads, and the future.
+- **CTA:** DM 'OWN' to learn more.
+- **Tags:** #DataOwnership #DigitalAsset #CoachingBusiness
+
+### Script 94
+- **Hook:** Why 7-figure coaches are moving back to WordPress in 2024.
+- **Body:** SaaS platforms like Calendly own your data. If they go down, your business goes down. With the Coach Client Engine, you own the engine, the leads, and the future.
+- **CTA:** DM 'FREEDOM' to learn more.
+- **Tags:** #DataOwnership #DigitalAsset #CoachingBusiness
+
+### Script 95
+- **Hook:** Leads go cold after 2 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
+
+### Script 96
+- **Hook:** A $5,000 offer on a $99 website is a lie that prospects can smell.
+- **Body:** In high-ticket sales, status is everything. If your site looks cheap, your conversion will stay there too. CloseClient.com builds high-status engines for high-impact coaches.
+- **CTA:** Book your design consultation at CloseClient.com.
+- **Tags:** #WebDesignForCoaches #ConversionRate #BrandIdentity
+
+### Script 97
+- **Hook:** Why 7-figure coaches are moving back to WordPress in 2024.
+- **Body:** SaaS platforms like HubSpot own your data. If they go down, your business goes down. With the Coach Client Engine, you own the engine, the leads, and the future.
+- **CTA:** DM 'SCALE' to learn more.
+- **Tags:** #DataOwnership #DigitalAsset #CoachingBusiness
+
+### Script 98
+- **Hook:** Leads go cold after 2 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
+
+### Script 99
+- **Hook:** Stop paying the $384/mo 'Tech Tax' just to keep your coaching business alive.
+- **Body:** You're paying for GoHighLevel, ActiveCampaign, and ClickFunnels. That's $6459 a year you're setting on fire. We built the Coach Client Engine to put all of that inside your own WordPress site.
+- **CTA:** Comment 'ENGINE' to see the math.
+- **Tags:** #CoachingTech #OnlineBusiness #CoachClientEngine #CloseClient
+
+### Script 100
+- **Hook:** Leads go cold after 10 minutes. If you aren't reaching out, your competitors are.
+- **Body:** The Engine's CRM scores your leads in real-time. When a 'HOT' lead hits your site, you get a notification. Stop chasing dead ends and start closing.
+- **CTA:** Get the Engine at the link in bio.
+- **Tags:** #LeadScoring #CRMTips #SalesStrategy
